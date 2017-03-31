@@ -19,3 +19,4 @@ Simple detector de lenguaje con corpus. Implementación con Python. Predice el l
 ## Preprocessing
 Already ready. If you want to change the set of languages for the prediction, you'll have to dive in the code and give a supporting corpus.
 * <code>python3 preprocessing.py</code>
+* Then rename the target <code>.pkl</code> to <code>data.pkl</code>.
