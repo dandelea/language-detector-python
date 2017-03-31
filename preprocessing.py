@@ -77,4 +77,4 @@ def restore(filepath):
 	return obj
 
 if __name__=='__main__':
-	run(str(datetime.datetime.utcnow()) + ".pkl")
+	run("data.pkl")
